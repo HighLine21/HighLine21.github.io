@@ -33,7 +33,7 @@
 <body>
     <h1>AND NOW GET THE FUCK OUTTA HERE BITCH</h1>
     
-    <img src="bild.png" alt="Mein Bild">
+    <img src="bild.png.jpeg" alt="Mein Bild">
     
     <p>Das ist meine erste Webseite hehehehe ihr Pisser. 🚀</p>
 </body>
